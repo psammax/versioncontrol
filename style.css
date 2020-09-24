@@ -1,5 +1,5 @@
 .intro{
-  background-image: url(bgnd.png);
+  background-image: );
   color: white;
   padding:10px;
 }
@@ -27,7 +27,7 @@ body{
   margin-right: 0;
 }
 .github{
-  background-image: url(vers.png);
+  background-image: url(bgnd.png);
   padding: 10px;
   color: #40514E;
   margin: 0;
